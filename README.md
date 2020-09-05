@@ -10,7 +10,7 @@ The idea born while I was asking myself "what if Nasa Rovers have a Social Netwo
 
 When the app starts we have a brief introduction with a fragment
 
-![ Demo](demo.gif | width=48)
+<img src="demo.gif" width="300" />
 
 in the next fragment we can click on the "Date" and chose a date and saw the photos that the corresponding Rover took on the Date that we selected
 
