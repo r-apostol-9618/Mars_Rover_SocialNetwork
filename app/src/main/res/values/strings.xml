@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NASA_Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">rGe3EKNcXa3FrQpqJkoEyCydYePEKtf7BhRMncyJ</string>
+    <string name="btn_info_read_text">Avvia</string>
+    <string name="app_description">Tutte le immagini  raccolte dai rover Curiosity, Opportunity e Spirit in una sola applicazione per gli appasionati di Marte</string>
+    <string name="lorem_ipsum">Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello </string>
+    <string name="curiosity_introduction">Curiosity è il rover più grande mai inviato su Marte. È stato lanciato il 26 novembre 2011 ed è atterrato su Marte alle 22:32 PDT del 5 agosto 2012.</string>
+    <string name="curiosity_mission">Curiosity si propone di rispondere alla domanda: Marte ha mai avuto le giuste condizioni ambientali per supportare piccole forme di vita chiamate microbi?</string>
+    <string name="curiosity_mission2"> All inizio della sua missione, gli strumenti scientifici di Curiosity hanno trovato prove chimiche e minerali di ambienti abitabili passati su Marte. Continua ad esplorare il record rock di un tempo in cui Marte avrebbe potuto essere la dimora della vita microbica.</string>
+    <string name="opportunity_introduction">Opportunity è il rover gemello di Spirit che ha raggiunto Marte il 25 gennaio 2004 alle 05:05</string>
+    <string name="opportunity_mission">Opportunity è rimasto operativo almeno fino al 10 giugno 2018 (sol 5111) quando a causa di una tempesta di sabbia globale che ha ridotto l apporto energetico fornito dai suoi pannelli solari</string>
+    <string name="opportunity_mission2">Ha inviato la sua ultima comunicazione ed è presumibilmente entrato in safe mode. La NASA ha dichiarato la missione conclusa il 13 febbraio 2019 (sol 5353) durante una diretta live streaming dal Jpl, poiché i tentativi di mettersi in contatto con il rover si sono rilevati fallimentari, riposa in pace piccolo anciolo</string>
+    <string name="spirit_introduction">Spirit è il primo dei due rover gemelli della NASA (l altro è "Opportunity") giunti su Marte nel mese di gennaio 2004. </string>
+    <string name="spirit_mission">Le specifiche del rover prevedevano che esso avrebbe funzionato per almeno novanta giorni. Tali specifiche sono state ampiamente superate e Spirit ha continuato a marciare sul suolo marziano fino al 2010 dimostrando un incredibile resistenza alle intemperie climatiche che si verificano sul pianeta</string>
+    <string name="spirit_mission2">Dal 22 marzo 2010 non si hanno più contatti con il rover. Il team della NASA è rimasto in ascolto per mesi di eventuali segnali che possano segnalare che il rover sia ancora attivo, fino al 25 maggio 2011, data in cui la missione è stata dichiarata ufficialmente conclusa, riposa in pace piccolo anciolo</string>
+
+</resources>

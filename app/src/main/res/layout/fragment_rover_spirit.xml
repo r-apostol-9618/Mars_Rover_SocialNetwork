@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".childFragments.RoverCuriosityFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/constraintTop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/txtViewRoverName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mars Spirit Rover"
+                android:textSize="28dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="12dp"
+                android:text="Dopo aver selezionato la data (premendo sulla scritta 'Data') potrai visualizzare le fotografie scattate dal rover Spirit \n purtroppo il nostro caro Spirit ci ha lasciati il 22 marzo 2010 "
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <TextView
+                    android:id="@+id/txtViewDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp"
+                    android:text="Data"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textStyle="bold" />
+                <!--<TextView
+                    android:id="@+id/txtViewDateSol"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="| Sol " />-->
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/constraintBottom"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="0dp"
+            android:layout_weight=".2">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerViewSpiritRover"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</FrameLayout>
