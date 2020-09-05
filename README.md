@@ -10,15 +10,15 @@ The idea born while I was asking myself "what if Nasa Rovers have a Social Netwo
 
 When the app starts we have a brief introduction with a fragment
 
-![ Demo](demo.gif){:height="24px" width="48px"}
+![ Demo](demo.gif | width=48)
 
 in the next fragment we can click on the "Date" and chose a date and saw the photos that the corresponding Rover took on the Date that we selected
 
-![ Demo](demo.gif){:height="24px" width="48px"}
+![ Demo](demo.gif | width=48)
 
 also if we click on the Rover's name we can see a brief of his story/mission
 
-![ Demo](demo.gif){:height="24px" width="48px"}
+![ Demo](demo.gif | width=48)
 
 
 
