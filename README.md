@@ -1,4 +1,4 @@
-# Social Network for Mars Rovers 
+# Social Network for Mars Rovers :rocket:
 
 A sample project created with Nasa API (by Chris Cerami) that shows photos taken on Mars by the rovers: Curiosity, Opportunity and Spirit
 
