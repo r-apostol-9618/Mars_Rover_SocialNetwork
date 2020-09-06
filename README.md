@@ -22,5 +22,16 @@ also if we click on the Rover's name we can see a preview of his story/mission
 
 
 
+### :books: Libraries I used 
+###### Animation
+- Lottie
+- Glide
+###### Layout
+- ViewPager2
+- RecyclerView
+- TabLayout
+###### Server call
+- Retrofit2
+- Coroutines
+- Jackson
 
-###### The smallest heading
