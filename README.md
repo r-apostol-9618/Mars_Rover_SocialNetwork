@@ -10,20 +10,17 @@ The idea was born while I was asking myself "what if Nasa Rovers had a Social Ne
 
 When the app starts we have a brief introduction with a fragment
 
-<img src="demo.gif" width="300" />
+<img src="demoInfo.gif" width="300" />
 
-in the next fragment we can click on the "Date" and choose a date and see the photos that the corresponding Rover took on the Date that we selected
+in the next fragment we can click on the label "Date" and choose a date and see the photos that the corresponding Rover took on the Date that we selected
 
-![ Demo](demo.gif | width=48)
+<img src="demoMain.gif" width="300" />
 
 also if we click on the Rover's name we can see a preview of his story/mission
 
-![ Demo](demo.gif | width=48)
+<img src="demoRover.gif" width="300" />
 
 
 
 
 ###### The smallest heading
-
-![ Demo](demo.gif)
-
