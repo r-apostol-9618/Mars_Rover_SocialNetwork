@@ -26,6 +26,7 @@ also if we click on the Rover's name we can see a preview of his story/mission
 ###### Animation
 - Lottie
 - Glide
+- SwipeRefreshLayout
 ###### Layout
 - ViewPager2
 - RecyclerView
