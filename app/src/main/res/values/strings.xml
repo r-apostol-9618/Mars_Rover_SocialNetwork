@@ -2,7 +2,7 @@
     <string name="app_name">NASA_Project</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="api_key">rGe3EKNcXa3FrQpqJkoEyCydYePEKtf7BhRMncyJ</string>
+    <string name="api_key"></string>
     <string name="btn_info_read_text">Avvia</string>
     <string name="app_description">Tutte le immagini  raccolte dai rover Curiosity, Opportunity e Spirit in una sola applicazione per gli appasionati di Marte</string>
     <string name="lorem_ipsum">Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello Hello lello </string>
