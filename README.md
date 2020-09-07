@@ -9,6 +9,7 @@ The idea was born while I was asking myself "what if Nasa Rovers had a Social Ne
 ### User Journey
 
 When the app starts we have a brief introduction with a fragment
+The first animation is from Lottie website and is designed by Polina Strelchenko,meanwhile the animation on the Info screen is designed by Animated SVG
 
 <img src="demoInfo.gif" width="300" />
 
@@ -33,4 +34,3 @@ Also if we click on the Rover's name we can see a preview of his story/mission
 - Retrofit2
 - Coroutines
 - Jackson
-
